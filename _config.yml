@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Marvin A Davil
+  name: Marvin A Davila
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -74,8 +74,8 @@ social-network-links:
   rss: true
   email: "malex140@gmail.com"
   facebook: daattali
-  github: daattali
-  twitter: daattali
+  github: 'https://github.com/MAL3X-01'
+  twitter: 'https://twitter.com/MALEX_D'
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
