@@ -1,4 +1,5 @@
 ---
+title: "#FFFFFF"
 layout: post
 title: Coming Soon
 subtitle: Coming soon
