@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming Soon "#FFFFFF"
+title: Coming Soon 
 subtitle: Coming soon
 bigimg: /img/path.jpg
 tags: [datascience, project]
