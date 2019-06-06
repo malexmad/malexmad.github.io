@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blogs: "blog"
+  Blog: "blog"
   Resources:
     - Resume(Coming Soon): "https://github.com/MAL3X-01"
     - GitHub: "https://github.com/MAL3X-01"
