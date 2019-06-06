@@ -73,12 +73,12 @@ author:
 social-network-links:
   rss: true
   email: "malex140@gmail.com"
-# facebook: 
   github: MAL3X-01
   twitter: MALEX_DS
+  linkedin: marvin-davila 
+#  facebook: 
 #  reddit: yourname
 #  google-plus: +DeanAttali
-   linkedin: marvin-davila 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "MarvinADavila.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
