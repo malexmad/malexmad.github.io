@@ -74,7 +74,7 @@ author:
 social-network-links:
 # rss: false
   email: "malex140@gmail.com"
-  github: MAL3X-01
+  github: malexmad
   twitter: malexmad
   linkedin: marvin-davila 
 #  facebook: 
@@ -108,7 +108,7 @@ url-pretty: "MarvinADavila.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-142118605-1"
+# google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
